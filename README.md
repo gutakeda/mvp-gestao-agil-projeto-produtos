@@ -4,4 +4,5 @@ O diretório contém os seguintes arquivos:
 - Diretório do wireframe do protótipo de interface do app MedReminder em /wireframes
 - PDF com backlog do produto e da sprint backlog-medreminder.pdf
 - Link para o Lean Inception detalhada no Miro, incluindo o MVP Canvas em canvas-url.txt
+- Link para o video de apresentação do MVP no youtube em mvp_presentation_video.txt
 - Arquivo README.md com informações dos arquivos do repositório
